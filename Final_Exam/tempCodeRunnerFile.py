@@ -1,0 +1,1 @@
+admin.total_balance()
